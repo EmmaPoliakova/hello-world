@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "print hello world",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmaPoliakova/hello-world.git"
+  },
+  "author": "Emma Poliakova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EmmaPoliakova/hello-world/issues"
+  },
+  "homepage": "https://github.com/EmmaPoliakova/hello-world#readme",
+  "dependencies": {
+    "unique-random-array": "3.0.0"
+  }
+}
